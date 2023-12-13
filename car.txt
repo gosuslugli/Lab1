@@ -1,0 +1,10 @@
+Lexus
+Rx300
+6
+blue
+automatic
+Porche
+911Turbo S
+8
+grey
+automatic
